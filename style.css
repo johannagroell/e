@@ -1,7 +1,18 @@
 body {
+    background-color: #eeeeee
+}
+h1 {
     color:hotpink;
 }
-p {
-    padding: 24px;
+td {
+    padding: 12px;
+    margin: 24px;
+}
+.headline {
+    font-size: 10px;
+    color: hotpink;
+}
+#first {
+    padding: 12px;
     margin: 24px;
 }
